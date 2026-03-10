@@ -1,4 +1,4 @@
-# FocusClock
+# FocusClock.
 
 
 ## Live Preview
