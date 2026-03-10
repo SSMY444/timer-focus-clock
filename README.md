@@ -1,5 +1,10 @@
 # FocusClock
 
+
+## Live Preview
+
+![FocusClock Demo](demo.gif)
+
 FocusClock is a colorful desktop focus timer built with Python.
 It combines a digital clock, customizable focus sessions, relaxing break timers, and multiple animated themes to create an engaging environment for productivity.
 
